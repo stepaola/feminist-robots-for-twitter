@@ -176,7 +176,7 @@ Tool to generate bots with shapes and colors. Put the code in https://cheapbotsd
 https://matteomenapace.github.io/random-generator-generator/examples/bot-idea-generator/
 
 ---
-### Lecturas adicionales
+### Additional readings
 - [Escritura Cyborg: las máquinas también sueñan](https://www.genderit.org/es/articles/edicion-especial-escritura-cyborg-las-maquinas-tambien-suenan)
 - [Bestiario de bots: un acercamiento a las poéticas de la escritura automática](http://editorial.centroculturadigital.mx/articulo/bestiario-de-bots)
 - [El mundo secreto de los bots](http://www.chequeado.com/investigacion/el-mundo-secreto-de-los-bots-y-los-trolls-y-como-esos-ejercitos-influyen-en-la-politica/)
