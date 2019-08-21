@@ -22,107 +22,156 @@ When they act together, it's often called a bots farm. They are rarely influenti
 
 #### Bots x Trolls
 
-A troll is someone focused on harassing, criticizing, or antagonizing in a provocative and derogatory manner. The word originally refers to unpleasant folk characters living in Scandinavian caverns. (Chequeado) A troll may be a bot, but a bot isn't always a troll.
+A troll is someone focused on harassing, criticizing, or antagonizing in a provocative and derogatory manner. The word originally refers to unpleasant folk characters living in Scandinavian caverns. (Chequeado) 
+
+A troll may be a bot, but a bot isn't always a troll.
 
 <br/><br/>
 
 
 ### Uses and possibilities of robots for feminist internet: fun + fight
 
-Here are some examples of feminist bots that were created with the material from this workshop. As we have never done in English before, they are all in Spanish. I've translated some to give you an idea, but their playful intent may be getting lost in translation. <br/>
+Here are some examples of feminist bots that were created with the material from this workshop. As we have never done in English before, they are all in Spanish. I've translated some to give you an idea, but their playful intent may be getting lost in translation. 
+
+<br/><br/>
 
 
+- [@MarchaOrgAr](https://twitter.com/MarchaOrgAr/status/1153762720711417856)
 
+"Good day to read Feminist Journalists"
+
+![enter image description here](https://i.imgur.com/7Eo6Lgd.png)
+<br/><br/>
 
 - [@Botota](https://twitter.com/bototadice)
+
+"Widow, happy aggressive feminist"
+
+"Botota says misbehave ;)"
+
+"Botota says carpe diem"
+
+"Botota says to combat women's harassment together with other women"
+
 ![enter image description here](https://i.imgur.com/ELUB0RA.jpg)
 <br/><br/>
 
 - [@lachakalarixxo](https://twitter.com/LACHAKALARIXXO)
+
+"Being a fat goddess is to hack the ego which is death; with feminist self-defense and undomitable pleasure #ChakalaInAction"
+
 ![](https://i.imgur.com/xfQik76.jpg)
 
 <br/><br/>
 - [@DominemoslasTIC](https://twitter.com/DominemoslasTIC)
+
+"Good day to reinvent the platforms and business models of machitrolls in universities"
+
+"Good day to spit out Bill Gates in the communities."
+
+"Today can be a great day for a #feministinternet and to take a walk without the cyberpatriarchy in our parks"
+
 ![enter image description here](https://i.imgur.com/8pKxtOR.png)
 
 <br/><br/>
-- [Acoso.online Bot para Telegram](https://acoso.online/cl/chat-de-ayuda/)
 
-![enter image description here](https://media.giphy.com/media/jtv3zdHN5DqPQ1j6Fy/giphy.gif)
+
+### Other possibilities
+
+
+- [@autoflaneur](https://twitter.com/autoflaneur)
+![N|Solid](https://i.imgur.com/Wzu2pvN.png)
 
 <br/><br/>
-- [Beta, Bot para Facebook](bit.ly/chamabetanoinbox)
-![enter image description here](https://i.imgur.com/2IIc6Zb.jpg)
 
-<br/><br/>
 - [@clitoscope](https://twitter.com/clitoscope)
 ![N|Solid](https://i.imgur.com/VouA6ki.jpg)
+<br/><br/>
+
+- [@tinycarebot](https://twitter.com/tinycarebot)
+![N|Solid](https://i.imgur.com/VouA6ki.jpg)
+
+<br/><br/>
+
+- [@virtuosobot](https://twitter.com/virtuosobot)
+![N|Solid](https://i.imgur.com/05GPiOl.png)
+
 
 <br/><br/>
 - [@softlandscapes](https://twitter.com/softlandscapes)
 ![enter image description here](https://i.imgur.com/iF6i8Qe.png)
 
+
+
 <br/><br/>
 ---
-### Nuestras robotas
-Conceptualmente en este manual vamos utilizar la teoria de la gramática generativa para crear nuestra robota. 
+### Our robots
+Conceptually in this manual we will use generative grammar theory to create our bots. 
 
 
-#### Qué es una gramática generativa 
+#### Generative grammar
 
 [![N|Solid](https://media.giphy.com/media/qccVJBDT6xNqU/giphy.gif)](https://nodesource.com/products/nsolid)
 
-Gramática generativa es un modelo gramatical cuyo objetivo es formular las reglas y principios por medio de los cuales una hablante es capaz de producir y comprender todas las oraciones posibles y aceptables de su lengua. (Wikipedia)
+Generative grammar is a linguistic theory that regards grammar as a system of rules that generates exactly those combinations of words that form grammatical sentences in a given language. Noam Chomsky first used the term in relation to the theoretical linguistics of grammar that he developed in the late 1950s. (Wikipedia)
 
-Ejemplo: 
-Supongamos que hay una maquina donde tu eliges algunos colores y tipos de ropas. Todos los días la máquina hace una combinación para ti basado en los tipos de ropas y colores que te gusta. Si con ese concepto creas frases, tenemos un bot basado en una gramática generativa.
 
 <br/><br/><br/>
 
-### Manos a la obra!
-1. Concepto de la robota: ideas? 
-- Cual será el '@'
-- La foto de capa
-- Imagen de perfil
-- Descripción 
+### Let's do it!
+1. Robot concept: ideas? 
+- What will be the '@'?
+- Cover image
+- Profile image
+- Description 
 
-2. [Crear una cuenta en Twitter](https://twitter.com/i/flow/signup)
+2. [Create a Twitter account](https://twitter.com/i/flow/signup)
 
-3. (logueada en Twitter) Acceder al sitio web: https://cheapbotsdonequick.com/
-4. Hacer clic en "Sign in with Twitter"
-5. Hacer clic en "Autorizar la aplicación"
-6. Si llegaste a la pagina que sigue, estas liste para crear las reglas de la robota. En el espacío después de "Tracery JSON" es donde vamos a escribir nuestro codigo. 
+3. (logged on Twitter) Access the website:: https://cheapbotsdonequick.com/
+4. Click on "Sign in with Twitter"
+5. Click on "Authorize the application"
+6. If you reached the next page, you are ready to create the rules of yout bot. In the space after "JSON Tracery" is where we are going to write our code. 
 
 ![enter image description here](https://i.imgur.com/RYLoszA.png)
 
-7. Probar con un ejemplo es la mejor manera de entender como funciona y desde ahí empezar a crear tu propia robota. Pega el código que sigue en el espacio y empieza a jugar: 
+7. Trying with an example is the best way to understand how it works and from there start creating your own robot. Paste the code that follows into the space and start playing:
+
 ~~~~ 
 {
-"origin": ["Buen día para #accion# #quecosa# con #conque# #donde#"]
-,"accion": ["explotar","salir","matar","?","?","?","?"]
-,"quecosa": ["Facebook","el patriarcado","al machitroll","?","?","?"]
-,"conque": ["una cuchara","el cifrado","?","?","?","?","?"]
-,"donde": ["en la cocina","en el auto","?","?","?"]
+"origin": ["Good day for #action# #something# with #object# #where#"]
+,"action": ["explode","leave","kill","?","?","?","?"]
+,"something": ["Facebook","patriarchy","the machista","?","?","?"]
+,"object": ["scissors","encryption","?","?","?","?","?"]
+,"where": ["in the kitchen","in the car","?","?","?"]
 
-} 
+}
 ~~~~
-- **En "origin" es donde viene la estructura de nuestra frase**
-- **Todo que está con "#" en "origin" es lo que se va a mezclarse en la frase**
+
+- **Origin" is where the structure of our sentence comes from.**
+- **Everything that is between "#" in "origin" is what is going to get mixed up in the sentence**
 
 
-8. Con el codigo allá al clicar en "refrescar" puedes mirar las posibilidades de combinaciones con las palabras que definimos en nuestro ejemplo:
+8. With the code there by clicking on "refresh" you can look at the possibilities of combinations with the words we define in our example:
 
 ![enter image description here](https://i.imgur.com/ZcVL3jc.png)
 
-- Si clicas en "tweet" ese texto se va a publicar en la cuenta de Twitter de tu robota.
+- If you click on "tweet" that text will be published in the Twitter account of your tweet.
 
-- Donde ves "Never" puedes definir de cuanto en cuanto tiempo tu robota va a decir algo en Twitter.
-- En "Don't reply" tienes la posibilidad de elegir que la robota conteste (Reply) o no conteste (Don't reply) cuando alguién le envía un mensagen en Twitter. Si la elección es "Reply", ella va a contestar con una combinación de palabras con la misma regla que ya creaste. 
-- En "Don't share" puedes elegir si el codigo de tu robota queda disponible (Share) o no (Don't share) para el publico en el sitio de Cheap bots done quick
-10. Con todo listo tienes apenas que "SAVE" y vas a tener la robota activa en la cuenta de Twitter que creaste para ella. 
-
+- Where you see "Never" you can define how long your bot is going to say something on Twitter.
+- In "Don't reply" you have the possibility to choose that the robot answers (Reply) or does not answer (Don't reply) when someone sends him a message on Twitter. If the choice is "Reply", she will answer with a combination of words with the same rule you already created. 
+- In "Don't share" you can choose whether your theft code is available (Share) or not (Don't share) to the public on the Cheap bots done quick website.
+10. With everything ready you just have to "SAVE" and you're going to have the active bot on the Twitter account you created for her.
 ![N|Solid](https://media2.giphy.com/media/3og0ISTHRg4HSNKTao/giphy.gif)
 
+
+### Extra content
+
+- Artbot:
+http://artbot.combinatorium.com/#!/tracery
+Tool to generate bots with shapes and colors. Put the code in https://cheapbotsdonequick.com/ and follow the steps to publish the bot on Twitter.
+
+- The bot ideas generator:
+https://matteomenapace.github.io/random-generator-generator/examples/bot-idea-generator/
 
 ---
 ### Lecturas adicionales
