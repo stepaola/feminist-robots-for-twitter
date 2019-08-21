@@ -10,24 +10,29 @@ This is a bots workshop where we hope we'll make one (or many) feminist robot(s)
 ---
 
 
-### Qué es un bot?
+### What is a bot?
 
 [![N|Solid](https://media.giphy.com/media/UH9QKcraNtbxK/giphy.gif)](https://nodesource.com/products/nsolid)
 
-Un bot (aféresis de robot) es un programa informático que efectúa automáticamente tareas repetitivas a través de Internet. Normalmente, estos bots ejecutan tareas simples y estructuralmente repetitivas. (Wikipedia)
+A bot (robot apheresis) is a computer program that automatically performs repetitive tasks over the internet. Normally, these bots perform simple and structurally repetitive tasks. (Wikipedia)
 
-Cuando actúan en conjunto se le suele decir granja de bots. Rara vez son influyentes, pero sí ayudan a generar trending topics -los temas que Twitter considera “calientes” en cierto momento y destaca en su plataforma- o generan “ruido” acerca de un tema. (Chequeado)
+When they act together, it's often called a bots farm. They are rarely influential, but they do help generate trending topics - the topics that Twitter considers "hot" at a certain moment and stands out on its platform - or generate "noise" about a topic. (Chequeado)
 <br/><br/>
 
 
 #### Bots x Trolls
 
-Un troll es alguien enfocado en acosar, criticar o antagonizar de manera provocadora y despectiva. La palabra originalmente refiere a desagradables personajes folclóricos que viven en las cavernas escandinavas. (Chequeado)
+A troll is someone focused on harassing, criticizing, or antagonizing in a provocative and derogatory manner. The word originally refers to unpleasant folk characters living in Scandinavian caverns. (Chequeado) A troll may be a bot, but a bot isn't always a troll.
 
 <br/><br/>
 
 
-### Usos y posibilidades de robotas para internet feminista: diversión + lucha
+### Uses and possibilities of robots for feminist internet: fun + fight
+
+Here are some examples of feminist bots that were created with the material from this workshop. As we have never done in English before, they are all in Spanish. I've translated some to give you an idea, but their playful intent may be getting lost in translation. <br/>
+
+
+
 
 - [@Botota](https://twitter.com/bototadice)
 ![enter image description here](https://i.imgur.com/ELUB0RA.jpg)
