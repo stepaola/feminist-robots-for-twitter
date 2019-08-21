@@ -169,6 +169,7 @@ Generative grammar is a linguistic theory that regards grammar as a system of ru
 
 - Artbot:
 http://artbot.combinatorium.com/#!/tracery
+
 Tool to generate bots with shapes and colors. Put the code in https://cheapbotsdonequick.com/ and follow the steps to publish the bot on Twitter.
 
 - The bot ideas generator:
