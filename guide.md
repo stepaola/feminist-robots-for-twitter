@@ -89,7 +89,7 @@ Here are some examples of feminist bots that were created with the material from
 <br/><br/>
 
 - [@tinycarebot](https://twitter.com/tinycarebot)
-![N|Solid](https://i.imgur.com/VouA6ki.jpg)
+![N|Solid](https://i.imgur.com/UeidTcs.png)
 
 <br/><br/>
 
@@ -133,6 +133,7 @@ Generative grammar is a linguistic theory that regards grammar as a system of ru
 6. If you reached the next page, you are ready to create the rules of yout bot. In the space after "JSON Tracery" is where we are going to write our code. 
 
 ![enter image description here](https://i.imgur.com/RYLoszA.png)
+<br/><br/>
 
 7. Trying with an example is the best way to understand how it works and from there start creating your own robot. Paste the code that follows into the space and start playing:
 
@@ -146,10 +147,10 @@ Generative grammar is a linguistic theory that regards grammar as a system of ru
 
 }
 ~~~~
-
+<br/><br/>
 - **Origin" is where the structure of our sentence comes from.**
 - **Everything that is between "#" in "origin" is what is going to get mixed up in the sentence**
-
+<br/><br/>
 
 8. With the code there by clicking on "refresh" you can look at the possibilities of combinations with the words we define in our example:
 
@@ -160,7 +161,7 @@ Generative grammar is a linguistic theory that regards grammar as a system of ru
 - Where you see "Never" you can define how long your bot is going to say something on Twitter.
 - In "Don't reply" you have the possibility to choose that the robot answers (Reply) or does not answer (Don't reply) when someone sends him a message on Twitter. If the choice is "Reply", she will answer with a combination of words with the same rule you already created. 
 - In "Don't share" you can choose whether your theft code is available (Share) or not (Don't share) to the public on the Cheap bots done quick website.
-10. With everything ready you just have to "SAVE" and you're going to have the active bot on the Twitter account you created for her.
+9. With everything ready you just have to "SAVE" and you're going to have the active bot on the Twitter account you created for her.
 ![N|Solid](https://media2.giphy.com/media/3og0ISTHRg4HSNKTao/giphy.gif)
 
 
