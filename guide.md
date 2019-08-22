@@ -45,7 +45,7 @@ Here are some examples of feminist bots that were created with the material from
 
 - [@Botota](https://twitter.com/bototadice)
 
-"Widow, happy aggressive feminist"
+"Widow, happy combative feminist"
 
 "Botota says misbehave ;)"
 
@@ -56,13 +56,7 @@ Here are some examples of feminist bots that were created with the material from
 ![enter image description here](https://i.imgur.com/ELUB0RA.jpg)
 <br/><br/>
 
-- [@lachakalarixxo](https://twitter.com/LACHAKALARIXXO)
 
-"Being a fat goddess is to hack the ego which is death; with feminist self-defense and undomitable pleasure #ChakalaInAction"
-
-![](https://i.imgur.com/xfQik76.jpg)
-
-<br/><br/>
 - [@DominemoslasTIC](https://twitter.com/DominemoslasTIC)
 
 "Good day to reinvent the platforms and business models of machitrolls in universities"
@@ -74,6 +68,12 @@ Here are some examples of feminist bots that were created with the material from
 ![enter image description here](https://i.imgur.com/8pKxtOR.png)
 
 <br/><br/>
+
+- [@lachakalarixxo](https://twitter.com/LACHAKALARIXXO)
+
+"Being a fat goddess is to hack the ego with feminist self-defense and undomitable pleasure #ChakalaInAction"
+
+![](https://i.imgur.com/xfQik76.jpg)
 
 
 ### Other possibilities
