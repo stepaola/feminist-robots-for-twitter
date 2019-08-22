@@ -75,7 +75,9 @@ Here are some examples of feminist bots that were created with the material from
 
 ![](https://i.imgur.com/xfQik76.jpg)
 
+<br/><br/>
 
+---
 ### Other possibilities
 
 
